@@ -590,8 +590,6 @@ interfacce, la ZCA le implementa con delle meta-classi da cui ereditare.
 
 Di seguito un classico esempio di *hello world*:
 
-..code-block:: python
-
     >>> class Host(object):
     ...
     ...     def goodmorning(self, name):
