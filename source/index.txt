@@ -51,10 +51,10 @@ Introduzione
 
 Sviluppare un sistema software di grandi dimensioni è sempre molto
 complicato. È stato dimostrato che quando si tratta di grandi sistemi un
-buon approcio all’analisi, al design e alla programmazione è dato dalla
+buon approccio all’analisi, al design e alla programmazione è dato dalla
 programmazione orientata agli oggetti. Il design basato sui componenti e
 la programmazione a componenti stanno diventando molto popolari in
-questi giorni. L’approcio basato sui componenti aiuta a scrivere e a
+questi giorni. L’approccio basato sui componenti aiuta a scrivere e a
 mantenere facilmente testabili con unit-test i sistemi software. Ci sono
 molti framework per il supporto al design a componenti in diversi
 linguaggi, alcuni sono persino indipendenti dal linguaggio. Due esempi
@@ -313,7 +313,7 @@ vedremo come potremo trarre beneficio dai pattern di design classici,
 `adapter` e `interface`. Questo ci porterà nel mondo della
 Zope Component Architecture.
 
-Approcio procedurale
+Approccio procedurale
 ----------------------
 
 In qualsiasi applicazione commerciale, una delle parti principali
